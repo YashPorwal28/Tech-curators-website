@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className=" bg-[#121619] ">
-      <div className="flex p-3 bg-[#121619]  h-[60px] justify-between items-center relative lg:w-4/5 m-auto border border-black ">
+      <div className="flex p-3 bg-[#121619]  h-[60px] justify-between items-center relative lg:w-4/5 m-auto">
         <div className="logo flex items-center">
           <img src="" alt="" />
           <p className="font-black text-xl text-[#42BE65] font-darker-grotesque ">
